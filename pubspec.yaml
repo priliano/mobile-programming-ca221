@@ -1,0 +1,40 @@
+name: uts_mobile_programing_220010089
+description: "A new Flutter project for UTS Mobile Programming."
+
+# Prevents the package from being accidentally published to pub.dev
+publish_to: 'none'
+
+# Application version and build number
+version: 1.0.0+1
+
+# Environment setup
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP library for handling API requests
+  http: ^1.2.2
+
+  # Cupertino Icons for iOS-style icons
+  cupertino_icons: ^1.0.8
+
+  # Menambahkan uuid untuk ID unik
+  uuid: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Lints for good coding practices
+  flutter_lints: ^4.0.0
+
+flutter:
+  # Enables the use of material design icons
+  uses-material-design: true
+
+  # Hapus bagian ini jika Anda tidak menggunakan aset lokal
+  # assets:
+  #   - assets/images/your_image.png
