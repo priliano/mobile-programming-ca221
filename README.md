@@ -1,16 +1,5 @@
-# uts_mobile_programing_220010030
+NIM : 220010089
+Nama : Dimas Priliano
+Berikut ini adalah hasil atau screenshoot dari uts hari ini :
+<img width="301" alt="screenshootuts" src="https://github.com/user-attachments/assets/441e5d70-bdc1-400a-b505-931a7c58a969">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
