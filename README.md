@@ -1,2 +1,2 @@
 Dimas Priliano_220010089
-![image](https://github.com/user-attachments/assets/26736e8b-b66a-4f64-80ee-ff7d5282364c)
+<img width="249" alt="bukti screenshoot" src="https://github.com/user-attachments/assets/cf998cf5-5dc9-45c6-9c66-f886772f4480">
